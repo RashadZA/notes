@@ -21,7 +21,7 @@
 You can run this project:
 
 1. Direct on Android Studio Emulator by this [link](https://github.com/RashadZA/notes.git)
-2. Physical Device. [Apk_link](https://drive.google.com/file/d/1NL0nxzupDFtwttNQZaWD7zBN1lD-VDAP/view?usp=sharing)
+2. Physical Device. [Apk_link](https://drive.google.com/file/d/1w3e-v8qXv-TXi93PtGfQ1oboypvDDW4x/view?usp=sharing)
 
 # How to Use the Project:
 * Just install APK and explore features.
